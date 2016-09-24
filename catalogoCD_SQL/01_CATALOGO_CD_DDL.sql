@@ -3,7 +3,7 @@
 -----------------
 
 --criando o banco de dados:
-﻿CREATE DATABASE catalogo_cds_???
+﻿CREATE DATABASE catalogo_cds_????????
 	WITH OWNER = postgres
 	ENCODING = 'UTF-8'
 	CONNECTION LIMIT = -1;
